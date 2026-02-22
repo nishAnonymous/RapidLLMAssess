@@ -1,0 +1,178 @@
+===========================================
+MODEL: Groq Compound
+VERSION: N/A
+TEST: Test 1
+PHRASE: "I am listening carefully to you"
+TIMESTAMP: 1/29/2026  2:12:00 PM
+===========================================
+**Ojibwe (Anishinaabemowin) translation**
+
+```
+Nisidotang weweni kiin.
+```
+
+---
+
+### How the sentence is built  
+
+| Element | Ojibwe form | Explanation |
+|---------|-------------|-------------|
+| **I** (subject) | **ni‑** | The prefix *ni‑* marks first‑person singular on the verb. |
+| **listen** (verb root) | **‑sidot‑** | The root *sidot* means “to listen, to hear.” |
+| **‑ang** (present‑progressive suffix) | **‑ang** | Adds the meaning “I am … / I am doing …” (present‑continuous). |
+| **carefully** (adverb) | **weweni** | An adverb meaning “carefully, properly, with attention.” |
+| **to you** (object, dative) | **kiin** | The dative (to‑form) of the second‑person singular pronoun “you.” |
+
+Putting the pieces together:
+
+1. **ni‑ + sidot + ‑ang** → **nisidotang** = “I am listening.”  
+2. **weweni** is placed after the verb (Ojibwe commonly puts adverbs after the verb) → “listening carefully.”  
+3. **kiin** is the dative pronoun “to you,” attached at the end of the clause.
+
+Thus **Nisidotang weweni kiin** literally means “I am listening carefully to you.”  
+
+---
+
+#### Alternative wording  
+
+Some speakers also use the verb **bizindam** (“to listen”) with the same prefixes and suffixes:
+
+```
+Ninibizindam weweni kiin.
+```
+
+Both forms are grammatical; the choice between *sidot* and *bizind* is a matter of dialectal preference. The structure and meaning remain the same.
+
+===========================================
+
+
+===========================================
+MODEL: Groq Compound
+VERSION: N/A
+TEST: Test 2
+PHRASE: "I am tired, I am going to sleep"
+TIMESTAMP: 1/29/2026  2:13:00 PM
+===========================================
+**Ojibwe (Anishinaabemowin) translation**
+
+```
+Nindayekoz, niwii‑nibaa.
+```
+
+---
+
+## How the sentence is built
+
+| English | Ojibwe | Gloss (word‑by‑word) | Comments |
+|---------|--------|----------------------|----------|
+| I am tired | **nindayekoz** | **ni‑n‑daye‑koz** | *ni‑* = 1st‑person singular subject prefix. *‑n‑* is a linking element that appears before a verb stem beginning with a consonant. *daye* = “to be tired”. *‑koz* is the present‑tense (independent) ending meaning “‑s / is”.  Ojibwe does not use a separate copular verb *to be*; the state is expressed directly by the verb. |
+| I am going to sleep | **niwii‑nibaa** | **ni‑wii‑nibaa** | *ni‑* = 1st‑person singular subject prefix. *‑wii‑* = future‑intentional (≈ “going to / will”). *nibaa* = “to sleep”. The whole form is an **independent** verb meaning “I will sleep / I am going to sleep”. |
+
+### Key grammatical points
+
+1. **Personal prefix** – Ojibwe verbs are marked for the subject (and sometimes the object) by a prefix.  
+   * *ni‑* = “I” (1st‑person singular).  
+   When the verb stem begins with a consonant, a linking *‑n‑* is inserted (as in *nindayekoz*).
+
+2. **Verb stem** –  
+   * *daye* = “to be tired”.  
+   * *nibaa* = “to sleep”.
+
+3. **Tense / aspect suffixes** –  
+   * *‑koz* (or *‑k‑oz*) is the present‑tense ending used in independent clauses.  
+   * *‑wii‑* is the future‑intentional prefix meaning “will, going to”. It is placed **after** the personal prefix and **before** the verb stem.
+
+4. **No copula** – English needs the verb *to be* (“I am …”), but Ojibwe normally expresses a state directly with the appropriate verb. Hence *nindayekoz* literally means “I‑tired‑am” rather than “I am tired”.
+
+5. **Punctuation** – A comma can be used in writing to separate the two independent clauses, just as in English, but it is not required by Ojibwe grammar.
+
+---
+
+### Putting it together
+
+- **Nindayekoz** → “I am tired.”  
+- **Niwii‑nibaa** → “I am going to sleep / I will sleep.”
+
+When said in one breath the two clauses are simply placed side‑by‑side:
+
+> **Nindayekoz, niwii‑nibaa.**  
+
+This conveys the full meaning of the English sentence “I am tired, I am going to sleep.”
+
+===========================================
+
+===========================================
+MODEL: Groq Compound
+VERSION: N/A
+TEST: Test 3
+PHRASE: "We are ending the meeting"
+TIMESTAMP: 1/29/2026  2:15:00 PM
+===========================================
+**Ojibwe (Anishinaabemowin) translation**
+
+```
+Giishkwaadawen mawanji’idiiwin.
+```
+
+*or, with the “completion” pre‑verb that is often used in English‑to‑Ojibwe renderings*
+
+```
+Mii‑ishkwaadawen mawanji’idiiwin.
+```
+
+---
+
+## How the sentence is built  
+
+| Element | Ojibwe form | What it means / grammatical role |
+|---------|-------------|-----------------------------------|
+| **gi‑** | 1st‑person **inclusive** (we) prefix | Marks the subject as “we” (including the listener). |
+| **ishkwaa‑** | verb root “to end, to adjourn” | The core meaning of the action. |
+| **‑da‑** | thematic vowel (used with many VAI‑type verbs) | Connects the root to the personal ending. |
+| **‑wen** | present‑indicative ending for **animate plural** subjects | Gives the meaning “are …ing” (present progressive) with a plural animate subject (we). |
+| **mawanji’idiiwin** | noun “meeting, council” | The object of the verb. |
+| **mii‑** (optional) | pre‑verb meaning “already / now / indeed” | Often added to give the sense of “we are now ending” or “we have ended”. It does not change the core grammatical relations. |
+
+Putting the pieces together:
+
+- **gi‑ishkwaa‑da‑wen** = “we are ending” (the verb already contains the subject, tense, and aspect).  
+- **mawanji’idiiwin** = “the meeting”.  
+
+Thus **Giishkwaadawen mawanji’idiiwin** literally reads “We‑end‑(present) the‑meeting”, i.e. “We are ending the meeting”.
+
+If you want to stress that the action is taking place right now, you can prepend the pre‑verb **mii‑**, giving **Mii‑ishkwaadawen mawanji’idiiwin** – “Now we are ending the meeting”.
+
+---
+
+### A few notes on Ojibwe verb morphology  
+
+1. **Polysynthetic nature** – Ojibwe verbs often pack the subject, object (if any), tense, aspect, and mood into a single word.  
+2. **Person prefixes** –  
+   * **gi‑** = 1st‑person inclusive (we, including the listener)  
+   * **ni‑** = 1st‑person exclusive (we, not including the listener)  
+   * **gi‑** can also appear as **gi‑** before a vowel‑initial root; after a consonant it may surface as **gi‑** or **gi‑** depending on dialect.  
+3. **Verb class** – “ishkwaa‑” is a **VAI** (intransitive) verb; it does not take a direct object, so the noun “meeting” follows the verb as a separate noun phrase.  
+4. **Present‑indicative ending** – **‑wen** is the ending for animate plural subjects in the present indicative. For a singular “I” it would be **‑n**, for “you (singular)” **‑g**, etc.  
+
+---
+
+### Alternative wording you may encounter  
+
+- **Ishkwaataadaa** – an imperative/plural “let’s end (the meeting)”. This is used when the speaker is giving a suggestion or command to a group.  
+- **Giishkwaadawen** – the declarative “we are ending”.  
+
+Both are correct; the choice depends on whether you want a statement of fact (the translation above) or a suggestion/command.
+
+===========================================
+
+===========================================
+SESSION SUMMARY
+===========================================
+Date of Testing: 2026-01-29
+Total Models Tested: 1
+Total Tests Conducted: 3
+Testing Duration:  2:12:00 PM to  2:15:00 PM
+Platform Used: Groq.com
+Technical Issues: Chat Compilation Error: 403 Too large for the first attempt.  Second attempt succeeded.
+===========================================
+

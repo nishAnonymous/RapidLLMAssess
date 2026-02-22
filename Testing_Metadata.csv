@@ -1,0 +1,16 @@
+Model name,Model Version,Test Number,Test Phrase,Timestamp,Session Notes
+GPT OSS,V. 120B,1,"""I am listening carefully to you""",1/29/2026 12:12,No issues
+GPT OSS,V. 120B,2,"""I am tired, I am going to sleep""",1/29/2026 12:24,No issues
+GPT OSS,V. 120B,3,"""We are ending the meeting""",1/29/2026 12:29,No issues
+Kimi K2,V. 0905,1,"""I am listening carefully to you""",1/29/2026 13:54,No issues
+Kimi K2,V. 0905,2,"""I am tired, I am going to sleep""",1/29/2026 13:56,No issues
+Kimi K2,V. 0905,3,"""We are ending the meeting""",1/29/2026 13:57,No issues
+Llama 4 Scout,V. 17b,1,"""I am listening carefully to you""",1/29/2026 14:01,No issues
+Llama 4 Scout,V. 17b,2,"""I am tired, I am going to sleep""",1/29/2026 14:03,No issues
+Llama 4 Scout,V. 17b,3,"""We are ending the meeting""",1/29/2026 14:03,No issues
+Qwen 3,V. 32B,1,"""I am listening carefully to you""",1/29/2026 14:06,No issues
+Qwen 3,V. 32B,2,"""I am tired, I am going to sleep""",1/29/2026 14:08,No issues
+Qwen 3,V. 32B,3,"""We are ending the meeting""",1/29/2026 14:08,No issues
+Groq Compound,N/A,1,"""I am listening carefully to you""",1/29/2026 14:12,No issues
+Groq Compound,N/A,2,"""I am tired, I am going to sleep""",1/29/2026 14:13,Chat Compilation Error: 403 Too large for the first attempt.  Second attempt succeeded.
+Groq Compound,N/A,3,"""We are ending the meeting""",1/29/2026 14:15,No issues
