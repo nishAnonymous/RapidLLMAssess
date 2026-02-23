@@ -1,9 +1,3 @@
----
-title: "Phase 1: Data Collection"
-date created: Sunday, February 15th 2026, 12:38:00 pm
-date modified: Sunday, February 22nd 2026, 9:43:34 am
----
-
 # Phase 1: Data Collection
 
 **Version**: 1.0  
